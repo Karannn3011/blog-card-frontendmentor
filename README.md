@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution](https://karannn3011.github.io/blog-card-frontendmentor/)
 
 ### Built with
 
